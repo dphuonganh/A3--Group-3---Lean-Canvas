@@ -8,4 +8,4 @@
 4. Phạm Đức Thịnh
 5. Nguyễn Văn Lâm
 
-**Description:** The lean canvas of Grab.
+**Description:** The lean canvas of **Grab**.
